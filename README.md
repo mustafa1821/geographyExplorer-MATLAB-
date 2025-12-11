@@ -2,7 +2,8 @@
 
 An interactive educational game built in MATLAB that helps users learn about European countries through an engaging, click-based map interface.
 
-**[SCREENSHOT: Main menu screen showing game title and options]**
+<img width="581" height="589" alt="image" src="https://github.com/user-attachments/assets/27599bad-ef32-4ce6-86d7-aa593ce03b82" />
+
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -22,7 +23,8 @@ An interactive educational game built in MATLAB that helps users learn about Eur
 
 Geography Explorer is an interactive learning tool designed to make geography education fun and engaging. Players explore a map of Europe, clicking on countries to learn detailed information including capitals, populations, languages, and interesting facts. The game tracks progress and awards achievements as players expand their geographical knowledge.
 
-**[SCREENSHOT: Interactive map of Europe with clickable countries]**
+<img width="858" height="830" alt="image" src="https://github.com/user-attachments/assets/5fba367a-c38c-4423-8153-8f21a8045ac8" />
+
 
 ## ✨ Features
 
@@ -38,7 +40,8 @@ Geography Explorer is an interactive learning tool designed to make geography ed
   - Currency information
   - Interesting cultural facts
 
-**[SCREENSHOT: Country information display showing details about a selected country]**
+<img width="634" height="638" alt="image" src="https://github.com/user-attachments/assets/cde64607-08a2-4ca4-a065-120a481f1eb2" />
+
 
 ## 🔧 Prerequisites
 
@@ -76,7 +79,8 @@ Geography Explorer is an interactive learning tool designed to make geography ed
    GeographyExplorer_Main
    ```
 
-**[SCREENSHOT: MATLAB command window showing successful game launch]**
+<img width="649" height="492" alt="image" src="https://github.com/user-attachments/assets/c41d81d4-6837-4734-b005-9cdd478f7f75" />
+
 
 ## 🎯 How to Play
 
@@ -85,8 +89,6 @@ Geography Explorer is an interactive learning tool designed to make geography ed
 1. Run `GeographyExplorer_Main.m` in MATLAB
 2. Wait for the game to load country data
 3. The main menu will appear with three options
-
-**[SCREENSHOT: Main menu with three option buttons]**
 
 ### Main Menu Options
 
@@ -104,7 +106,8 @@ Geography Explorer is an interactive learning tool designed to make geography ed
    - Displays a thank you message
    - Closes the application
 
-**[SCREENSHOT: Progress screen showing statistics and achievements]**
+<img width="884" height="652" alt="image" src="https://github.com/user-attachments/assets/d3360c32-3060-4ec3-a136-d0b1f1f18040" />
+
 
 ### Exploring Countries
 
@@ -181,7 +184,10 @@ When you click on the display map:
 - The color is matched to a country using `buildCountryColorMap()`
 - The corresponding country information is displayed
 
-**[SCREENSHOT: Side-by-side comparison of display map and color mask map]**
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/52835a19-e5e9-4370-827f-5f78bf2b5826" />
+
+<img width="943" height="376" alt="image" src="https://github.com/user-attachments/assets/8d85ba12-cf1d-4511-b206-71cd489ff9b3" />
+
 
 ### Progress System
 
